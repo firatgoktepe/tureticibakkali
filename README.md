@@ -2,7 +2,7 @@
 
 - Wordpress e-ticaret sitesi
 - Woocommerce 
-- HTML, CSS, PHP
+- HTML, CSS, PHP, JS
 
 
 ### Screenshots
