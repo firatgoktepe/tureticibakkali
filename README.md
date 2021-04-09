@@ -1,6 +1,6 @@
 # tureticibakkali
 
-- Wordpress e-ticaret sitesi
+- Wordpress e-ticaret temasi
 - Woocommerce 
 - HTML, CSS, SASS, PHP, JS
 
