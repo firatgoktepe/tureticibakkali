@@ -3,6 +3,7 @@
 - Wordpress e-ticaret temasi
 - Woocommerce 
 - Front-end: HTML, CSS, SASS, JS
+- Back-end: PHP
 
 
 
